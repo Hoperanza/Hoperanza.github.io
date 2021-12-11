@@ -24,7 +24,7 @@ li{
 }
 
 .main-item {
-    margin-right: 0;  margin-left: auto;
+    width: 100%
 }
 
 .copy-container h1{
